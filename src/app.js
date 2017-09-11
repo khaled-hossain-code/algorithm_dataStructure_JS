@@ -1,2 +1,2 @@
-import List from './Lists/List'
+import Stack from './stack/Stack'
 
